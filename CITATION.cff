@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this design, please cite it as below."
+authors:
+  - family-names: Ben Youss Gironda
+    given-names: Zakia
+    orcid: https://orcid.org/0000-0002-9429-6310
+title: "Open-source modular 3D printed holder design for in-vivo experiments in awake mice and anesthetized mice and rats"
+version: 1.0.0
+date-released: 2021-11-10
