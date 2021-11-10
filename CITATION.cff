@@ -1,9 +1,16 @@
-cff-version: 1.0.0
-message: "If you use this design, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Open-source modular 3D printed holder design for
+  in-vivo experiments in awake mice and anesthetized
+  mice and rats
+message: 'If you are using the design, please cite as below'
+type: dataset
 authors:
-  - family-names: Ben Youss Gironda
-    given-names: Zakia
-    orcid: https://orcid.org/0000-0002-9429-6310
-title: "Open-source modular 3D printed holder design for in-vivo experiments in awake mice and anesthetized mice and rats"
-version: 1.0.0
-date-released: 2021-11-10
+  - given-names: Zakia
+    family-names: Ben Youss Gironda
+    email: z.benyouss@gmail.com
+    affiliation: NYU School of Medicine
+    orcid: 'https://orcid.org/0000-0002-9429-6310'
